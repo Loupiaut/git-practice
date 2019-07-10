@@ -1,3 +1,4 @@
 Name: Loup
 Age: 33
+Eyes: Brown
 Favorite Color: Pink
